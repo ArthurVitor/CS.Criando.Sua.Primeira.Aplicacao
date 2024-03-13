@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula001", "Aula001\Aula001.csproj", "{FC593E73-AF5E-4534-8E9C-4F5126E4CA07}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Desafios", "Desafios", "{A14E204B-0A3D-4FC2-9821-8A6CCC02B59C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio001", "Desafio001\Desafio001.csproj", "{2BB47290-90F0-4745-9996-FF8F1594795E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,12 @@ Global
 		{FC593E73-AF5E-4534-8E9C-4F5126E4CA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC593E73-AF5E-4534-8E9C-4F5126E4CA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC593E73-AF5E-4534-8E9C-4F5126E4CA07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB47290-90F0-4745-9996-FF8F1594795E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB47290-90F0-4745-9996-FF8F1594795E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB47290-90F0-4745-9996-FF8F1594795E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB47290-90F0-4745-9996-FF8F1594795E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2BB47290-90F0-4745-9996-FF8F1594795E} = {A14E204B-0A3D-4FC2-9821-8A6CCC02B59C}
 	EndGlobalSection
 EndGlobal
